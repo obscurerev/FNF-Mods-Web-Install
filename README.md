@@ -1,4 +1,4 @@
-# All-full-screen-Friday-Night-Funkin-mods
+# Friday Night Funkin' All Full Screen Mods
 The extracted full screen links from Snokido's source code.
 
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
