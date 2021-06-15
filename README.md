@@ -3,7 +3,9 @@ The extracted full screen links from Snokido's source code.
 
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
 
-Replace "0281" in the link above with the corresponding text to play the listed mod in full screen:
+(This will be updated accordingly when Snokido adds a new mod to their roster of mods)
+
+Replace "0281" in the link above with the corresponding text below to play the listed mod in full screen:
 
 Whitty: whitty10
 
