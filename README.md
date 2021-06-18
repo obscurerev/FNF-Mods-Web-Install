@@ -3,59 +3,55 @@ The extracted full screen links from Snokido's source code.
 
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
 
-(This will be updated accordingly when Snokido adds a new mod to their roster)
+Whitty: https://w8.snokido.com/games/html5/friday-night-funkin/whitty10/index.html
 
-Replace "0281" in the link above with the corresponding text below to play the listed mod in full screen:
+Mid Fight: https://w8.snokido.com/games/html5/friday-night-funkin/midfight13/index.html
 
-Whitty: whitty10
+Tricky: https://w8.snokido.com/games/html5/friday-night-funkin/tricky21/index.html
 
-Mid Fight: midfight13
+Hex: https://w8.snokido.com/games/html5/friday-night-funkin/hex10/index.html
 
-Tricky: tricky21
+Miku: https://w8.snokido.com/games/html5/friday-night-funkin/miku10/index.html
 
-Hex: hex10
+Sky: https://w8.snokido.com/games/html5/friday-night-funkin/sky01/index.html
 
-Miku: miku10
+Zardy: https://w8.snokido.com/games/html5/friday-night-funkin/zardy10/index.html
 
-Sky: sky01
+Tord: https://w8.snokido.com/games/html5/friday-night-funkin/tord01/index.html
 
-Zardy: zardy10
+Garcello: https://w8.snokido.com/games/html5/friday-night-funkin/garcello02/index.html
 
-Tord: tord01
+Chara: https://w8.snokido.com/games/html5/friday-night-funkin/chara/index.html
 
-Garcello: garcello02
+Kapi: https://w8.snokido.com/games/html5/friday-night-funkin/kapi05/index.html
 
-Chara: chara
+Tabi: https://w8.snokido.com/games/html5/friday-night-funkin/tabi03/index.html
 
-Kapi: kapi05
+Shaggy: https://w8.snokido.com/games/html5/friday-night-funkin/shaggy04/index.html
 
-Tabi: tabi03
+Agoti: https://w8.snokido.com/games/html5/friday-night-funkin/agoti01/index.html
 
-Shaggy: shaggy04
+Bob: https://w8.snokido.com/games/html5/friday-night-funkin/bob01/index.html
 
-Agoti: agoti01
+Imposter: https://w8.snokido.com/games/html5/friday-night-funkin/impostor01/index.html
 
-Bob: bob01
+FNF HD: https://w8.snokido.com/games/html5/friday-night-funkin/hd/index.html
 
-Imposter: impostor01
+Sans: https://w8.snokido.com/games/html5/friday-night-funkin/sans/index.html
 
-FNF HD: hd
+Matt: https://w8.snokido.com/games/html5/friday-night-funkin/matt21/index.html
 
-Sans: sans
+Monika: https://w8.snokido.com/games/html5/friday-night-funkin/monika02/index.html
 
-Matt: matt21
+Foned In: https://w8.snokido.com/games/html5/friday-night-funkin/fonedin01/index.html
 
-Monika: monika02
+Neo: https://w8.snokido.com/games/html5/friday-night-funkin/neo10/index.html
 
-Foned In: fonedin01
+B-Side: https://w8.snokido.com/games/html5/friday-night-funkin/bside10/index.html
 
-Neo: neo10
+But Bad: https://w8.snokido.com/games/html5/friday-night-funkin/butbad/index.html
 
-B-Side: bside10
+CG5: https://w8.snokido.com/games/html5/friday-night-funkin/cg510/index.html
 
-But Bad: butbad
-
-CG5: cg510
-
-X-Event: xevent02
+X-Event: https://w8.snokido.com/games/html5/friday-night-funkin/xevent02/index.html
 
