@@ -55,3 +55,10 @@ CG5: https://w8.snokido.com/games/html5/friday-night-funkin/cg510/index.html
 
 X-Event: https://w8.snokido.com/games/html5/friday-night-funkin/xevent02/index.html
 
+Starlight: https://w8.snokido.com/games/html5/friday-night-funkin/starlight03/index.html
+
+Sketchy: https://w8.snokido.com/games/html5/friday-night-funkin/sketchy21/index.html
+
+Starving: https://w8.snokido.com/games/html5/friday-night-funkin/starving01/index.html
+
+Bob and Bosip: https://w8.snokido.com/games/html5/friday-night-funkin/bobandbosip/index.html
