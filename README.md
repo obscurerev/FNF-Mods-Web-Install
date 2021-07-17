@@ -75,4 +75,4 @@ Nonsense: https://w8.snokido.com/games/html5/friday-night-funkin/nonsense/index.
 
 Trollface: https://w8.snokido.com/games/html5/friday-night-funkin/trollface/index.html
 
-FNAF: https://w8.snokido.com/games/html5/friday-night-funkin/fnaf/index.html
+FNAF:  https://w8.snokido.com/games/html5/friday-night-funkin/fnaf/index.html
