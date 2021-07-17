@@ -1,5 +1,5 @@
 # Friday Night Funkin' All Full Screen Mods
-Optimized full screen mod links from sources I could find.
+Optimized full screen mod links from Snokido.
 
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
 
@@ -35,7 +35,7 @@ Bob: https://w8.snokido.com/games/html5/friday-night-funkin/bob01/index.html
 
 Imposter: https://w8.snokido.com/games/html5/friday-night-funkin/impostor01/index.html
 
-FNF HD: https://w8.snokido.com/games/html5/friday-night-funkin/hd/index.html
+FNF HD: https://w8.snokido.com/games/html5/friday-night-funkin/hd02/index.html
 
 Sans: https://w8.snokido.com/games/html5/friday-night-funkin/sans/index.html
 
@@ -59,6 +59,20 @@ Starlight: https://w8.snokido.com/games/html5/friday-night-funkin/starlight03/in
 
 Sketchy: https://w8.snokido.com/games/html5/friday-night-funkin/sketchy21/index.html
 
-Starving: https://w8.snokido.com/games/html5/friday-night-funkin/starving01/index.html
+Starving: https://w8.snokido.com/games/html5/friday-night-funkin/starving01/index.html  
 
 Bob and Bosip: https://w8.snokido.com/games/html5/friday-night-funkin/bobandbosip/index.html
+
+Flippy: https://w8.snokido.com/games/html5/friday-night-funkin/flippy/index.html
+
+Bob Onslaught: https://w8.snokido.com/games/html5/friday-night-funkin/bob03/index.html
+
+Annie: https://w8.snokido.com/games/html5/friday-night-funkin/annie02/index.html
+
+Sunday: https://w8.snokido.com/games/html5/friday-night-funkin/sunday/index.html
+
+Nonsense: https://w8.snokido.com/games/html5/friday-night-funkin/nonsense/index.html
+
+Trollface: https://w8.snokido.com/games/html5/friday-night-funkin/trollface/index.html
+
+FNAF: https://w8.snokido.com/games/html5/friday-night-funkin/fnaf/index.html
