@@ -78,3 +78,5 @@ Trollface: https://w8.snokido.com/games/html5/friday-night-funkin/trollface/inde
 FNAF: https://w8.snokido.com/games/html5/friday-night-funkin/fnaf/index.html
 
 Big Brother: https://w8.snokido.com/games/html5/friday-night-funkin/bigbrother/index.html
+
+gamasexual.com/c/f/g/friday-night-funkin-vs-tricky/?10
