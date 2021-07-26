@@ -79,4 +79,6 @@ FNAF: https://w8.snokido.com/games/html5/friday-night-funkin/fnaf/index.html
 
 Big Brother: https://w8.snokido.com/games/html5/friday-night-funkin/bigbrother/index.html
 
-https://gamasexual.com/c/f/g/friday-night-funkin-vs-tricky/?10
+Camellia: https://w8.snokido.com/games/html5/friday-night-funkin/camellia/index.html
+
+The Date: https://w8.snokido.com/games/html5/friday-night-funkin/dateweek/index.html
