@@ -82,3 +82,11 @@ Big Brother: https://w8.snokido.com/games/html5/friday-night-funkin/bigbrother/i
 Camellia: https://w8.snokido.com/games/html5/friday-night-funkin/camellia/index.html
 
 The Date: https://w8.snokido.com/games/html5/friday-night-funkin/dateweek/index.html
+
+Neon: https://w8.snokido.com/games/html5/friday-night-funkin/neon02/index.html
+
+QT: https://w8.snokido.com/games/html5/friday-night-funkin/qt02/index.html
+
+In The Galaxy: https://w8.snokido.com/games/html5/friday-night-funkin/galaxy01/index.html
+
+Carol: https://w8.snokido.com/games/html5/friday-night-funkin/carol/index.htm
