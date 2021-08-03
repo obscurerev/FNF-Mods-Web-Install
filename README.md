@@ -89,4 +89,4 @@ QT: https://w8.snokido.com/games/html5/friday-night-funkin/qt02/index.html
 
 In The Galaxy: https://w8.snokido.com/games/html5/friday-night-funkin/galaxy01/index.html
 
-Carol: https://w8.snokido.com/games/html5/friday-night-funkin/carol/index.htm
+Carol: https://w8.snokido.com/games/html5/friday-night-funkin/carol/index.html
