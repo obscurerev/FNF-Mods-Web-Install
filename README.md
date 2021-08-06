@@ -55,7 +55,7 @@ CG5: https://w8.snokido.com/games/html5/friday-night-funkin/cg510/index.html
 
 X-Event: https://w8.snokido.com/games/html5/friday-night-funkin/xevent02/index.html
 
-Starlight: https://w8.snokido.com/games/html5/friday-night-funkin/starlight03/index.html
+Starlight: https://w8.snokido.com/games/html5/friday-night-funkin/starlight04/index.html
 
 Sketchy: https://w8.snokido.com/games/html5/friday-night-funkin/sketchy21/index.html
 
