@@ -93,3 +93,4 @@ Carol: https://w8.snokido.com/games/html5/friday-night-funkin/carol/index.html
 
 Salty: https://w8.snokido.com/games/html5/friday-night-funkin/saltysunday01/index.html
 
+Fever: https://w8.snokido.com/games/html5/friday-night-funkin/fevertown02/index.html
