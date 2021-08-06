@@ -39,7 +39,7 @@ FNF HD: https://w8.snokido.com/games/html5/friday-night-funkin/hd02/index.html
 
 Sans: https://w8.snokido.com/games/html5/friday-night-funkin/sans/index.html
 
-Matt: https://w8.snokido.com/games/html5/friday-night-funkin/matt21/index.html
+Matt: https://w8.snokido.com/games/html5/friday-night-funkin/matt23/index.html
 
 Monika: https://w8.snokido.com/games/html5/friday-night-funkin/monika02/index.html
 
