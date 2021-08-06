@@ -91,4 +91,4 @@ In The Galaxy: https://w8.snokido.com/games/html5/friday-night-funkin/galaxy01/i
 
 Carol: https://w8.snokido.com/games/html5/friday-night-funkin/carol/index.html
 
-Salty: https://w8.snokido.com/games/html5/friday-night-funkin/salty02/index.html
+Salty: https://w8.snokido.com/games/html5/friday-night-funkin/salty03/index.html
