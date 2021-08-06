@@ -1,5 +1,5 @@
 # Friday Night Funkin' All Snokido Mods
-Optimized full screen mod links from Snokido. This will get updated every time a FNF new mod gets released to Snokido.
+Optimized full screen mod links from Snokido. This will get updated every time a FNF new mod gets added to Snokido.
 
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
 
