@@ -79,7 +79,7 @@ Big Brother: https://w8.snokido.com/games/html5/friday-night-funkin/bigbrother/i
 
 Camellia: https://w8.snokido.com/games/html5/friday-night-funkin/camellia/index.html
 
-The Date: https://w8.snokido.com/games/html5/friday-night-funkin/dateweek/index.html
+The Date: https://w8.snokido.com/games/html5/friday-night-funkin/dateweek01/index.html
 
 Neon: https://w8.snokido.com/games/html5/friday-night-funkin/neon02/index.html
 
