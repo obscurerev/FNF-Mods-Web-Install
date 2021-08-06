@@ -1,11 +1,11 @@
 # Friday Night Funkin' All Snokido Mods
-Optimized full screen mod links from Snokido. This updates every time a fnf new mod gets released to Snokido.
+Optimized full screen mod links from Snokido. This will get updated every time a FNF new mod gets released to Snokido.
 
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
 
 Whitty: https://w8.snokido.com/games/html5/friday-night-funkin/whitty10/index.html
 
-Mid Fight: https://w8.snokido.com/games/html5/friday-night-funkin/midfight13/index.html
+Sarvente: https://w8.snokido.com/games/html5/friday-night-funkin/midfight13/index.html
 
 Tricky: https://w8.snokido.com/games/html5/friday-night-funkin/tricky23/index.html
 
