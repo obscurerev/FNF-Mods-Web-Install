@@ -7,7 +7,7 @@ Whitty: https://w8.snokido.com/games/html5/friday-night-funkin/whitty10/index.ht
 
 Mid Fight: https://w8.snokido.com/games/html5/friday-night-funkin/midfight13/index.html
 
-Tricky: https://w8.snokido.com/games/html5/friday-night-funkin/tricky21/index.html
+Tricky: https://w8.snokido.com/games/html5/friday-night-funkin/tricky23/index.html
 
 Hex: https://w8.snokido.com/games/html5/friday-night-funkin/hex10/index.html
 
