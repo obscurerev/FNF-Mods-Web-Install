@@ -31,7 +31,7 @@ Shaggy: https://w8.snokido.com/games/html5/friday-night-funkin/shaggy04/index.ht
 
 Agoti: https://w8.snokido.com/games/html5/friday-night-funkin/agoti01/index.html
 
-Bob: https://w8.snokido.com/games/html5/friday-night-funkin/bob01/index.html
+Bob: https://w8.snokido.com/games/html5/friday-night-funkin/bob03/index.html
 
 Imposter: https://w8.snokido.com/games/html5/friday-night-funkin/impostor01/index.html
 
@@ -64,8 +64,6 @@ Starving: https://w8.snokido.com/games/html5/friday-night-funkin/starving01/inde
 Bob and Bosip: https://w8.snokido.com/games/html5/friday-night-funkin/bobandbosip/index.html
 
 Flippy: https://w8.snokido.com/games/html5/friday-night-funkin/flippy/index.html
-
-Bob Onslaught: https://w8.snokido.com/games/html5/friday-night-funkin/bob03/index.html
 
 Annie: https://w8.snokido.com/games/html5/friday-night-funkin/annie02/index.html
 
