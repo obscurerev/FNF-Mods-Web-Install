@@ -81,7 +81,7 @@ Camellia: https://w8.snokido.com/games/html5/friday-night-funkin/camellia/index.
 
 The Date: https://w8.snokido.com/games/html5/friday-night-funkin/dateweek01/index.html
 
-Neon: https://w8.snokido.com/games/html5/friday-night-funkin/neon02/index.html
+Neon: https://w8.snokido.com/games/html5/friday-night-funkin/neon03/index.html
 
 QT: https://w8.snokido.com/games/html5/friday-night-funkin/qt02/index.html
 
