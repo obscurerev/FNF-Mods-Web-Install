@@ -3,8 +3,6 @@ Optimized full screen mod links from Snokido. This will get updated when a new F
 
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
 
-Pico Night Punkin': https://w8.snokido.com/games/html5/pico-night-punkin/index.html
-
 Whitty: https://w8.snokido.com/games/html5/friday-night-funkin/whitty10/index.html
 
 Sarvente: https://w8.snokido.com/games/html5/friday-night-funkin/midfight13/index.html
