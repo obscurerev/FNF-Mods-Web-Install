@@ -1,5 +1,5 @@
-# Friday Night Funkin' All Snokido Mods
-Optimized full screen mod links from Snokido. This will get updated when a new FNF mod gets added to Snokido.
+# Friday Night Funkin' Mods Optimized and in Full Screen
+Optimized full screen mod links from Snokido. This will get updated when a new FNF mod gets added to Snokido. There will be some other sources as well.
 
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
 
@@ -94,3 +94,5 @@ Salty: https://w8.snokido.com/games/html5/friday-night-funkin/saltysunday01/inde
 Fever: https://w8.snokido.com/games/html5/friday-night-funkin/fevertown02/index.html
 
 Maginage: https://w8.snokido.com/games/html5/friday-night-funkin/maginage01/index.html
+
+Blueballs Incident: https://gamasexual.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/?10
