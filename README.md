@@ -3,6 +3,8 @@ Optimized full screen mod links from Snokido. This will get updated when a new F
 
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
 
+Pico Night Punkin': https://w8.snokido.com/games/html5/pico-night-punkin/index.html
+
 Whitty: https://w8.snokido.com/games/html5/friday-night-funkin/whitty10/index.html
 
 Sarvente: https://w8.snokido.com/games/html5/friday-night-funkin/midfight13/index.html
@@ -97,4 +99,4 @@ Maginage: https://w8.snokido.com/games/html5/friday-night-funkin/maginage01/inde
 
 Blueballs Incident: https://gamasexual.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/?10
 
-Starecrown: https://gamasexual.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
+Starecrown: https://gamasexual.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/ (this one takes a bit to load)
