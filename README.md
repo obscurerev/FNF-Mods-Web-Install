@@ -95,6 +95,8 @@ Fever: https://w8.snokido.com/games/html5/friday-night-funkin/fevertown02/index.
 
 Maginage: https://w8.snokido.com/games/html5/friday-night-funkin/maginage01/index.html
 
+Parappa: https://w8.snokido.com/games/html5/friday-night-funkin/parappa01/index.html
+
 Blueballs Incident: https://gamasexual.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/
 
 Starecrown: https://gamasexual.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/ (this one takes a bit to load + press 1 for autoplay)
