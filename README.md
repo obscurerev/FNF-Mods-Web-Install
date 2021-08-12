@@ -97,6 +97,8 @@ Maginage: https://w8.snokido.com/games/html5/friday-night-funkin/maginage01/inde
 
 Parappa: https://w8.snokido.com/games/html5/friday-night-funkin/parappa01/index.html
 
+Eteled: https://w8.snokido.com/games/html5/friday-night-funkin/eteled02/index.html
+
 Blueballs Incident: https://gamasexual.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/
 
 Starecrown: https://gamasexual.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/ (this one takes a bit to load + press 1 for autoplay)
