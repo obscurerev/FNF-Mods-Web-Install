@@ -61,7 +61,7 @@ Sketchy: https://w8.snokido.com/games/html5/friday-night-funkin/sketchy21/index.
 
 Starving: https://w8.snokido.com/games/html5/friday-night-funkin/starving01/index.html  
 
-Bob and Bosip: https://w8.snokido.com/games/html5/friday-night-funkin/bobandbosip/index.html
+Bob and Bosip: https://w8.snokido.com/games/html5/friday-night-funkin/bobandbosip04/index.html
 
 Flippy: https://w8.snokido.com/games/html5/friday-night-funkin/flippy/index.html
 
