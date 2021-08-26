@@ -1,5 +1,5 @@
 # Friday Night Funkin' Mods Optimized and in Full Screen
-Optimized full screen mod links from Snokido. This will get updated when a new FNF mod gets added to Snokido. There will be some other sources as well.
+Optimized full screen mod links from Snokido. This is useful if you don't want to download a popular mod from Gamebanana and have it take up space. If you click the three dots on the top right corner of your browser, go to more tools, then click Add Shortcut, it will be like you actually downloaded the mod. This will get updated when a new FNF mod gets added to Snokido. There will be some other sources as well.
 
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
 
@@ -107,7 +107,7 @@ D-Sides: https://w8.snokido.com/games/html5/friday-night-funkin/dside02/index.ht
 
 Fazbear: https://w8.snokido.com/games/html5/friday-night-funkin/fazbear01/index.html
 
-Matt X Shaggy: https://w8.snokido.com/games/html5/friday-night-funkin/shaggyxmatt/index.html
+Matt x Shaggy: https://w8.snokido.com/games/html5/friday-night-funkin/shaggyxmatt/index.html
 
 Blueballs Incident: https://gamaverse.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/
 
