@@ -107,6 +107,8 @@ D-Sides: https://w8.snokido.com/games/html5/friday-night-funkin/dside02/index.ht
 
 Fazbear: https://w8.snokido.com/games/html5/friday-night-funkin/fazbear01/index.html
 
+Matt X Shaggy: https://w8.snokido.com/games/html5/friday-night-funkin/shaggyxmatt/index.html
+
 Blueballs Incident: https://gamaverse.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/
 
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/ (this one takes a bit to load + press 1 for autoplay)
