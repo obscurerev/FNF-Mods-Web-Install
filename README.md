@@ -116,3 +116,5 @@ Spinel: https://w8.snokido.com/games/html5/friday-night-funkin/spinel01/index.ht
 Blueballs Incident: https://gamaverse.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/
 
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
+
+Zardy HD: https://gamaverse.com/c/f/g/fnf-vs-zardy-hd-online-friday-night-funkin/
