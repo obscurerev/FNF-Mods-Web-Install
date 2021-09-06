@@ -1,5 +1,6 @@
 # Friday Night Funkin' Mods Optimized and in Full Screen
 Optimized full screen mod links from Snokido. This is useful if you don't want to download a popular mod from Gamebanana and have it take up space. If you click the three dots on the top right corner of your browser, go to more tools, then click Add Shortcut, it will be like you actually downloaded the mod. This will get updated when a new FNF mod gets added to Snokido.
+
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
 
 Whitty: https://w8.snokido.com/games/html5/friday-night-funkin/whitty10/index.html
