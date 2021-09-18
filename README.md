@@ -115,6 +115,8 @@ Spinel: https://w8.snokido.com/games/html5/friday-night-funkin/spinel01/index.ht
 
 Dusttale: https://w8.snokido.com/games/html5/friday-night-funkin/dusttale02/index.html
 
+Retrospecter: https://w8.snokido.com/games/html5/friday-night-funkin/retrospecter01/index.html
+
 Blueballs Incident: https://gamaverse.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/
 
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
