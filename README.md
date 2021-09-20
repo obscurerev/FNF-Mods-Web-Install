@@ -119,7 +119,6 @@ Retrospecter: https://w8.snokido.com/games/html5/friday-night-funkin/retrospecte
 
 Blueballs Incident: https://gamaverse.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/
 
-https://gamaverse.com/c/f/g/friday-night-funkin-vs-impostor-v2-among-us/
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Zardy HD: https://gamaverse.com/c/f/g/fnf-vs-zardy-hd-online-friday-night-funkin/
