@@ -124,3 +124,5 @@ Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-fr
 Zardy HD: https://gamaverse.com/c/f/g/fnf-vs-zardy-hd-online-friday-night-funkin/
 
 BETADCIU: https://gamaverse.com/c/f/g/fnf-betadciu-potato-edition-friday-night-funkin/
+
+Miku 2.0 (Temporary): https://gamaverse.com/c/f/g/friday-night-funkin-hatsune-miku/
