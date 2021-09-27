@@ -109,7 +109,7 @@ Fazbear: https://w8.snokido.com/games/html5/friday-night-funkin/fazbear01/index.
 
 Matt x Shaggy: https://w8.snokido.com/games/html5/friday-night-funkin/shaggyxmatt/index.html
 
-Sonic.Exe: https://w8.snokido.com/games/html5/friday-night-funkin/sonicexe03/index.html
+Sonic.Exe: https://w8.snokido.com/games/html5/friday-night-funkin/sonicexe05/index.html
 
 Spinel: https://w8.snokido.com/games/html5/friday-night-funkin/spinel01/index.html
 
