@@ -11,7 +11,7 @@ Tricky: https://w8.snokido.com/games/html5/friday-night-funkin/tricky23/index.ht
 
 Hex: https://w8.snokido.com/games/html5/friday-night-funkin/hex10/index.html
 
-Miku: https://w8.snokido.com/games/html5/friday-night-funkin/miku10/index.html
+Miku 2.0: https://w8.snokido.com/games/html5/friday-night-funkin/miku21/index.html
 
 Sky: https://w8.snokido.com/games/html5/friday-night-funkin/sky01/index.html
 
@@ -117,6 +117,8 @@ Dusttale: https://w8.snokido.com/games/html5/friday-night-funkin/dusttale02/inde
 
 Retrospecter: https://w8.snokido.com/games/html5/friday-night-funkin/retrospecter01/index.html
 
+Slender: https://w8.snokido.com/games/html5/friday-night-funkin/slenderman01/index.html
+
 Blueballs Incident: https://gamaverse.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/
 
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
@@ -124,5 +126,3 @@ Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-fr
 Zardy HD: https://gamaverse.com/c/f/g/fnf-vs-zardy-hd-online-friday-night-funkin/
 
 BETADCIU: https://gamaverse.com/c/f/g/fnf-betadciu-potato-edition-friday-night-funkin/
-
-Miku 2.0 (Temporary): https://gamaverse.com/c/f/g/friday-night-funkin-hatsune-miku/
