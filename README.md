@@ -119,6 +119,8 @@ Retrospecter: https://w8.snokido.com/games/html5/friday-night-funkin/retrospecte
 
 Slender: https://w8.snokido.com/games/html5/friday-night-funkin/slenderman01/index.html
 
+Flipped Out: https://w8.snokido.com/games/html5/friday-night-funkin/flippedout02/index.html
+
 Blueballs Incident: https://gamaverse.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/
 
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
