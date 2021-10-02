@@ -134,3 +134,5 @@ Zardy HD: https://gamaverse.com/c/f/g/fnf-vs-zardy-hd-online-friday-night-funkin
 BETADCIU: https://gamaverse.com/c/f/g/fnf-betadciu-potato-edition-friday-night-funkin/
 
 Selever: https://gamaverse.com/c/f/g/fnf-vs-selever-full-week-online-friday-night-funkin/
+
+In The Galaxy 2.0: https://gamaverse.com/c/f/g/fnf-in-the-galaxy-w-week-2-update-friday-night-funkin/
