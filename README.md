@@ -127,6 +127,8 @@ Blueballs Incident: https://gamaverse.com/c/f/g/fnf-the-blueballs-incident-frida
 
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
+Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
+
 Zardy HD: https://gamaverse.com/c/f/g/fnf-vs-zardy-hd-online-friday-night-funkin/
 
 BETADCIU: https://gamaverse.com/c/f/g/fnf-betadciu-potato-edition-friday-night-funkin/
