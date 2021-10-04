@@ -136,3 +136,5 @@ BETADCIU: https://gamaverse.com/c/f/g/fnf-betadciu-potato-edition-friday-night-f
 Selever: https://gamaverse.com/c/f/g/fnf-vs-selever-full-week-online-friday-night-funkin/
 
 In The Galaxy 2.0: https://gamaverse.com/c/f/g/fnf-in-the-galaxy-w-week-2-update-friday-night-funkin/
+
+21 Kid: https://gamaverse.com/c/f/g/fnf-21-kid-friday-night-funkin/
