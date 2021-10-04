@@ -123,7 +123,7 @@ Flipped Out: https://w8.snokido.com/games/html5/friday-night-funkin/flippedout02
 
 Stickman: https://w8.snokido.com/games/html5/friday-night-funkin/stickman01/index.html
 
-Blueballs Incident: https://gamaverse.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/
+Blueballs: https://w8.snokido.com/games/html5/friday-night-funkin/blueballs/index.html
 
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
