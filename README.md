@@ -5,7 +5,7 @@ Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/028
 
 Whitty: https://w8.snokido.com/games/html5/friday-night-funkin/whitty10/index.html
 
-Sarvente: https://w8.snokido.com/games/html5/friday-night-funkin/midfight13/index.html
+Mid-Fight: https://w8.snokido.com/games/html5/friday-night-funkin/midfight13/index.html
 
 Tricky: https://w8.snokido.com/games/html5/friday-night-funkin/tricky23/index.html
 
@@ -140,3 +140,5 @@ Selever: https://gamaverse.com/c/f/g/fnf-vs-selever-full-week-online-friday-nigh
 In The Galaxy 2.0: https://gamaverse.com/c/f/g/fnf-in-the-galaxy-w-week-2-update-friday-night-funkin/
 
 21 Kid: https://gamaverse.com/c/f/g/fnf-21-kid-friday-night-funkin/
+
+Mid-Fight HD: https://gamaverse.com/c/f/g/fnf-mid-fight-masses-hd-potato-edition/
