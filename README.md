@@ -123,7 +123,7 @@ Flipped Out: https://w8.snokido.com/games/html5/friday-night-funkin/flippedout02
 
 Stickman: https://w8.snokido.com/games/html5/friday-night-funkin/stickman01/index.html
 
-Blueballs: https://w8.snokido.com/games/html5/friday-night-funkin/blueballs/index.html
+Trollge: https://w8.snokido.com/games/html5/friday-night-funkin/blueballs/index.html
 
 Suicide Mouse: https://w8.snokido.com/games/html5/friday-night-funkin/mouse02/index.html
 
