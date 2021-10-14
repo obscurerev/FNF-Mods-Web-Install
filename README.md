@@ -144,3 +144,5 @@ In The Galaxy 2.0: https://gamaverse.com/c/f/g/fnf-in-the-galaxy-w-week-2-update
 21 Kid: https://gamaverse.com/c/f/g/fnf-21-kid-friday-night-funkin/
 
 Mid-Fight HD: https://gamaverse.com/c/f/g/fnf-mid-fight-masses-hd-potato-edition/
+
+Void: https://gamaverse.com/c/f/g/fnf-vs-void-online-friday-night-funkin/
