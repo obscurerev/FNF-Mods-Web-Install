@@ -31,7 +31,6 @@ Shaggy 2.0: https://w8.snokido.com/games/html5/friday-night-funkin/shaggy21/inde
 
 Agoti: https://w8.snokido.com/games/html5/friday-night-funkin/agoti01/index.html
 
-FNF Multiplayer: https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/?1
 Bob: https://w8.snokido.com/games/html5/friday-night-funkin/bob03/index.html
 
 Imposter: https://w8.snokido.com/games/html5/friday-night-funkin/impostor07/index.html
@@ -151,3 +150,5 @@ In The Galaxy 2.0: https://gamaverse.com/c/f/g/fnf-in-the-galaxy-w-week-2-update
 Mid-Fight HD: https://gamaverse.com/c/f/g/fnf-mid-fight-masses-hd-potato-edition/
 
 Void: https://gamaverse.com/c/f/g/fnf-vs-void-online-friday-night-funkin/
+
+FNF Multiplayer: https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/?1
