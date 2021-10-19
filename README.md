@@ -151,6 +151,4 @@ Mid-Fight HD: https://gamaverse.com/c/f/g/fnf-mid-fight-masses-hd-potato-edition
 
 Void: https://gamaverse.com/c/f/g/fnf-vs-void-online-friday-night-funkin/
 
-Everywhere at the end of Funk: https://fnf.run3.io/end-of-funk/1/
-
 FNF Online Multiplayer: https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/?1
