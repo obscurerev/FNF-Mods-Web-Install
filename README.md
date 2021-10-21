@@ -27,7 +27,7 @@ Kapi: https://w8.snokido.com/games/html5/friday-night-funkin/kapi05/index.html
 
 Tabi: https://w8.snokido.com/games/html5/friday-night-funkin/tabi03/index.html
 
-Shaggy 2.0: https://w8.snokido.com/games/html5/friday-night-funkin/shaggy21/index.html
+Shaggy 2.5: https://w8.snokido.com/games/html5/friday-night-funkin/shaggy21/index.html
 
 Agoti: https://w8.snokido.com/games/html5/friday-night-funkin/agoti01/index.html
 
