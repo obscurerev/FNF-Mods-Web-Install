@@ -156,3 +156,5 @@ Void: https://gamaverse.com/c/f/g/fnf-vs-void-online-friday-night-funkin/
 FNF Online Multiplayer: https://gamaverse.com/c/f/g/friday-night-funkin-fnf-online-multiplayer-edition-no-download/?1
 
 Matt WiiK 100: https://gamaverse.com/c/f/g/fnf-vs-matt-wiik-100-online-friday-night-funkin/
+
+Origami: https://gamaverse.com/c/f/g/fnf-the-origami-king-friday-night-funkin/
