@@ -45,7 +45,7 @@ Monika: https://w8.snokido.com/games/html5/friday-night-funkin/monika04/index.ht
 
 Foned In: https://w8.snokido.com/games/html5/friday-night-funkin/fonedin01/index.html
 
-Neo: https://w8.snokido.com/games/html5/friday-night-funkin/neo10/index.html
+Neo 3.0: https://w8.snokido.com/games/html5/friday-night-funkin/neo20/index.html
 
 B-Side: https://w8.snokido.com/games/html5/friday-night-funkin/bside10/index.html
 
