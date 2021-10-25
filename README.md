@@ -158,3 +158,5 @@ FNF Online Multiplayer: https://gamaverse.com/c/f/g/friday-night-funkin-fnf-onli
 Matt WiiK 100: https://gamaverse.com/c/f/g/fnf-vs-matt-wiik-100-online-friday-night-funkin/
 
 Origami: https://gamaverse.com/c/f/g/fnf-the-origami-king-friday-night-funkin/
+
+Minus Eteled: https://gamaverse.com/c/f/g/fnf-vs-minus-eteled-friday-night-funkin/
