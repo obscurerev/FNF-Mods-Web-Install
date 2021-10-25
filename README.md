@@ -161,4 +161,6 @@ Origami: https://gamaverse.com/c/f/g/fnf-the-origami-king-friday-night-funkin/
 
 Minus Eteled: https://gamaverse.com/c/f/g/fnf-vs-minus-eteled-friday-night-funkin/
 
+Imposter V4 Demo: https://gamaverse.com/c/f/g/fnf-vs-imposter-v4-demo-friday-night-funkin/
+
 Everywhere at the End of Funk: https://files.kbh.games/dds/friday-night-funkin-everywhere-at-the-end-of-funk-mod.html
