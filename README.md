@@ -165,4 +165,6 @@ Minus Eteled: https://gamaverse.com/c/f/g/fnf-vs-minus-eteled-friday-night-funki
 
 Imposter V4 Demo: https://gamaverse.com/c/f/g/fnf-vs-imposter-v4-demo-friday-night-funkin/
 
+Doki Doki Takeover: https://gamaverse.com/c/f/g/fnf-doki-doki-takeover-vs-monika-sayori-natsuki-and-yuri/
+
 Everywhere at the End of Funk: https://files.kbh.games/dds/friday-night-funkin-everywhere-at-the-end-of-funk-mod.html
