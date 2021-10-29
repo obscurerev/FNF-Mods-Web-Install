@@ -139,6 +139,8 @@ Baldi: https://w8.snokido.com/games/html5/friday-night-funkin/baldi01/index.html
 
 Ghost Twins: https://w8.snokido.com/games/html5/friday-night-funkin/ghosttwins04/index.html
 
+Huggy Wuggy: https://w8.snokido.com/games/html5/friday-night-funkin/huggy03/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
