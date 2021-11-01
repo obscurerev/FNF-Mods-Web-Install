@@ -169,6 +169,6 @@ Imposter V4 Demo: https://gamaverse.com/c/f/g/fnf-vs-imposter-v4-demo-friday-nig
 
 Doki Doki Takeover: https://gamaverse.com/c/f/g/fnf-doki-doki-takeover-vs-monika-sayori-natsuki-and-yuri/
 
-Camellia Week 2: https://gamaverse.com/c/f/g/fnf-vs-camellia-friday-night-funkin/
+Camellia 2.0: https://gamaverse.com/c/f/g/fnf-vs-camellia-friday-night-funkin/
 
 Everywhere at the End of Funk: https://files.kbh.games/dds/friday-night-funkin-everywhere-at-the-end-of-funk-mod.html
