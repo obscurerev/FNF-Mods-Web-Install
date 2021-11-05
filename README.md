@@ -143,6 +143,8 @@ Huggy Wuggy: https://w8.snokido.com/games/html5/friday-night-funkin/huggy03/inde
 
 Dave and Bambi: https://w8.snokido.com/games/html5/friday-night-funkin/davebambi01/index.html
 
+Oswald: https://w8.snokido.com/games/html5/friday-night-funkin/oswald/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
