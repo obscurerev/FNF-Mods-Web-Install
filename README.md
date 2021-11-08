@@ -173,4 +173,6 @@ Doki Doki Takeover: https://gamaverse.com/c/f/g/fnf-doki-doki-takeover-vs-monika
 
 Camellia 2.0: https://gamaverse.com/c/f/g/fnf-vs-camellia-friday-night-funkin/
 
+Indie Cross: https://gamaverse.com/c/f/g/fnf-indie-cross-vs-cuphead-sans-bendy/
+
 Everywhere at the End of Funk: https://files.kbh.games/dds/friday-night-funkin-everywhere-at-the-end-of-funk-mod.html
