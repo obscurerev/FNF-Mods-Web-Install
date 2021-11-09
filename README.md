@@ -145,6 +145,8 @@ Dave and Bambi: https://w8.snokido.com/games/html5/friday-night-funkin/davebambi
 
 Oswald: https://w8.snokido.com/games/html5/friday-night-funkin/oswald/index.html
 
+Hypno: https://w8.snokido.com/games/html5/friday-night-funkin/lullaby01/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
