@@ -41,8 +41,6 @@ Sans: https://w8.snokido.com/games/html5/friday-night-funkin/sans/index.html
 
 Matt: https://w8.snokido.com/games/html5/friday-night-funkin/matt23/index.html
 
-Monika: https://w8.snokido.com/games/html5/friday-night-funkin/monika04/index.html
-
 Foned In: https://w8.snokido.com/games/html5/friday-night-funkin/fonedin01/index.html
 
 Neo 3.0: https://w8.snokido.com/games/html5/friday-night-funkin/neo20/index.html
@@ -149,6 +147,8 @@ Hypno: https://w8.snokido.com/games/html5/friday-night-funkin/lullaby01/index.ht
 
 Cartoon Cat: https://w8.snokido.com/games/html5/friday-night-funkin/cartooncat01/index.html
 
+Doki Doki Takeover: https://w8.snokido.com/games/html5/friday-night-funkin/dokitakeover01/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
@@ -172,8 +172,6 @@ Origami: https://gamaverse.com/c/f/g/fnf-the-origami-king-friday-night-funkin/
 Minus Eteled: https://gamaverse.com/c/f/g/fnf-vs-minus-eteled-friday-night-funkin/
 
 Imposter V4 Demo: https://gamaverse.com/c/f/g/fnf-vs-imposter-v4-demo-friday-night-funkin/
-
-Doki Doki Takeover: https://gamaverse.com/c/f/g/fnf-doki-doki-takeover-vs-monika-sayori-natsuki-and-yuri/
 
 Camellia 2.0: https://gamaverse.com/c/f/g/fnf-vs-camellia-friday-night-funkin/
 
