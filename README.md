@@ -177,6 +177,6 @@ Camellia 2.0: https://gamaverse.com/c/f/g/fnf-vs-camellia-friday-night-funkin/
 
 Indie Cross: https://gamaverse.com/c/f/g/fnf-indie-cross-vs-cuphead-sans-bendy/
 
-WiiK 4 Demo: https://gamaverse.com/c/f/g/fnf-vs-matt-wiik-4-wii-funkin-fanmade/
+Matt WiiK 4 Demo: https://gamaverse.com/c/f/g/fnf-vs-matt-wiik-4-wii-funkin-fanmade/
 
 Everywhere at the End of Funk: https://files.kbh.games/dds/friday-night-funkin-everywhere-at-the-end-of-funk-mod.html
