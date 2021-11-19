@@ -149,6 +149,8 @@ Cartoon Cat: https://w8.snokido.com/games/html5/friday-night-funkin/cartooncat01
 
 Doki Doki Takeover: https://w8.snokido.com/games/html5/friday-night-funkin/dokitakeover01/index.html
 
+Indie Cross: https://w8.snokido.com/games/html5/friday-night-funkin/indiecross01/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
@@ -174,8 +176,6 @@ Minus Eteled: https://gamaverse.com/c/f/g/fnf-vs-minus-eteled-friday-night-funki
 Imposter V4 Demo: https://gamaverse.com/c/f/g/fnf-vs-imposter-v4-demo-friday-night-funkin/
 
 Camellia 2.0: https://gamaverse.com/c/f/g/fnf-vs-camellia-friday-night-funkin/
-
-Indie Cross: https://gamaverse.com/c/f/g/fnf-indie-cross-vs-cuphead-sans-bendy/
 
 Matt WiiK 4 Demo: https://gamaverse.com/c/f/g/fnf-vs-matt-wiik-4-wii-funkin-fanmade/
 
