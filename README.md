@@ -155,6 +155,8 @@ Mami: https://w8.snokido.com/games/html5/friday-night-funkin/mami01/index.html
 
 Pibby Corrupted: https://w8.snokido.com/games/html5/friday-night-funkin/pibby-finn/index.html
 
+Herobrine: https://w8.snokido.com/games/html5/friday-night-funkin/herobrine01/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
