@@ -159,7 +159,9 @@ Herobrine: https://w8.snokido.com/games/html5/friday-night-funkin/herobrine01/in
 
 Cassandra: https://w8.snokido.com/games/html5/friday-night-funkin/cassandra/index.html
 
-Sonic.exe 2.0: https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-potato-edition/
+Sonic.exe 2.0 (Ultra Optimized): https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-potato-edition/
+
+Sonic.exe 2.0: https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/?12
 
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
