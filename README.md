@@ -107,7 +107,7 @@ Fazbear: https://w8.snokido.com/games/html5/friday-night-funkin/fazbear01/index.
 
 Matt x Shaggy: https://w8.snokido.com/games/html5/friday-night-funkin/shaggyxmatt/index.html
 
-Sonic.Exe: https://w8.snokido.com/games/html5/friday-night-funkin/sonicexe05/index.html
+Sonic.exe: https://w8.snokido.com/games/html5/friday-night-funkin/sonicexe05/index.html
 
 Spinel: https://w8.snokido.com/games/html5/friday-night-funkin/spinel01/index.html
 
@@ -158,6 +158,8 @@ Pibby Corrupted: https://w8.snokido.com/games/html5/friday-night-funkin/pibby-fi
 Herobrine: https://w8.snokido.com/games/html5/friday-night-funkin/herobrine01/index.html
 
 Cassandra: https://w8.snokido.com/games/html5/friday-night-funkin/cassandra/index.html
+
+Sonic.exe 2.0: https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-potato-edition/
 
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
