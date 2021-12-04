@@ -161,6 +161,8 @@ Cassandra: https://w8.snokido.com/games/html5/friday-night-funkin/cassandra/inde
 
 Retaken Sanity: https://w8.snokido.com/games/html5/friday-night-funkin/retaken-sanity01/index.html
 
+Pibby Steven: https://w8.snokido.com/games/html5/friday-night-funkin/pibby-steven/index.html
+
 Sonic.exe 2.0: https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/?12
 
 Sonic.exe 2.0 (Mashed Potato): https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-mashed-potato-edition/?1638411943
