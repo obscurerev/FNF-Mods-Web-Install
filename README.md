@@ -185,6 +185,8 @@ FNF Online Multiplayer: https://gamaverse.com/c/f/g/friday-night-funkin-fnf-onli
 
 Origami: https://gamaverse.com/c/f/g/fnf-the-origami-king-friday-night-funkin/
 
+Huggy Wuggy HD: https://gamaverse.com/c/f/g/fnf-vs-hd-huggy-wuggy-friday-night-funkin/?1635374165
+
 Minus Eteled: https://gamaverse.com/c/f/g/fnf-vs-minus-eteled-friday-night-funkin/
 
 Imposter V4 Demo: https://gamaverse.com/c/f/g/fnf-vs-imposter-v4-demo-friday-night-funkin/
