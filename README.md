@@ -200,3 +200,5 @@ Matt WiiK 4 Demo: https://gamaverse.com/c/f/g/fnf-vs-matt-wiik-4-wii-funkin-fanm
 Everywhere at the End of Funk: https://files.kbh.games/dds/friday-night-funkin-everywhere-at-the-end-of-funk-mod.html
 
 Entity Demo: https://gamaverse.com/c/f/g/fnf-entity-vs-solazar-agoti-nikusa-aldryx/?1638587197
+
+Metal Sonic: Stardust Showdown: https://gamaverse.com/c/f/g/fnf-vs-metal-sonic-stardust-showdown/?1638928925
