@@ -165,6 +165,10 @@ Pibby Steven: https://w8.snokido.com/games/html5/friday-night-funkin/pibby-steve
 
 Aflac: https://w8.snokido.com/games/html5/friday-night-funkin/aflac02/index.html
 
+Undertale: https://w8.snokido.com/games/html5/friday-night-funkin/undertale01/index.html
+
+Mr. Beast: https://w8.snokido.com/games/html5/friday-night-funkin/mrbeast/index.html
+
 Sonic.exe 2.0: https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/?12
 
 Sonic.exe 2.0 (Mashed Potato): https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-mashed-potato-edition/?1638411943
@@ -204,5 +208,3 @@ Everywhere at the End of Funk: https://files.kbh.games/dds/friday-night-funkin-e
 Entity Demo: https://gamaverse.com/c/f/g/fnf-entity-vs-solazar-agoti-nikusa-aldryx/?1638587197
 
 Metal Sonic: Stardust Showdown: https://gamaverse.com/c/f/g/fnf-vs-metal-sonic-stardust-showdown/?1638928925
-
-Undertale: https://gamaverse.com/c/f/g/fnf-undertale-friday-night-funkin/?1639242970
