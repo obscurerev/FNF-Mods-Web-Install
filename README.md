@@ -169,6 +169,8 @@ Undertale: https://w8.snokido.com/games/html5/friday-night-funkin/undertale01/in
 
 Mr. Beast: https://w8.snokido.com/games/html5/friday-night-funkin/mrbeast/index.html
 
+Tails Gets Trolled: https://w8.snokido.com/games/html5/friday-night-funkin/tailstrolled03/index.html
+
 Sonic.exe 2.0: https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/?12
 
 Sonic.exe 2.0 (Mashed Potato): https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-mashed-potato-edition/?1638411943
