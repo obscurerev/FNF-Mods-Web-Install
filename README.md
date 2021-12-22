@@ -171,6 +171,8 @@ Mr. Beast: https://w8.snokido.com/games/html5/friday-night-funkin/mrbeast/index.
 
 Tails Gets Trolled: https://w8.snokido.com/games/html5/friday-night-funkin/tailstrolled03/index.html
 
+Entity: https://w8.snokido.com/games/html5/friday-night-funkin/entity01/index.html
+
 Sonic.exe 2.0: https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/?12
 
 Sonic.exe 2.0 (Mashed Potato): https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-mashed-potato-edition/?1638411943
@@ -206,7 +208,5 @@ Camellia 2.0: https://gamaverse.com/c/f/g/fnf-vs-camellia-friday-night-funkin/
 Matt WiiK 4 Demo: https://gamaverse.com/c/f/g/fnf-vs-matt-wiik-4-wii-funkin-fanmade/
 
 Everywhere at the End of Funk: https://files.kbh.games/dds/friday-night-funkin-everywhere-at-the-end-of-funk-mod.html
-
-Entity Demo: https://gamaverse.com/c/f/g/fnf-entity-vs-solazar-agoti-nikusa-aldryx/?1638587197
 
 Metal Sonic: Stardust Showdown: https://gamaverse.com/c/f/g/fnf-vs-metal-sonic-stardust-showdown/?1638928925
