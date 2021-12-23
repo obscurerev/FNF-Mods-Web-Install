@@ -173,6 +173,8 @@ Tails Gets Trolled: https://w8.snokido.com/games/html5/friday-night-funkin/tails
 
 Entity: https://w8.snokido.com/games/html5/friday-night-funkin/entity01/index.html
 
+Wednesday's Infidelity: https://w8.snokido.com/games/html5/friday-night-funkin/wednesday/index.html
+
 Sonic.exe 2.0: https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/?12
 
 Sonic.exe 2.0 (Mashed Potato): https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-mashed-potato-edition/?1638411943
