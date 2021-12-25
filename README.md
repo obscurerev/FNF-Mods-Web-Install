@@ -1,5 +1,5 @@
 # Friday Night Funkin' Mods Optimized and in Full Screen
-Optimized full screen mod links from Snokido. This is useful if you don't want to download a popular mod from GameBanana and have it take up space. These links may also useful if you want to avoid a work or school blocker that blocks sites.  If you click the three dots on the top right corner of your browser, go to more tools, then click Add Shortcut, it will be like you actually downloaded the mod. This will get updated when a new FNF mod gets added to Snokido or when a popular mod not on Snokido gets released to Gamaverse. Gamaverse links usually take longer to load songs so be patient.
+Optimized full screen mod links from Snokido. This is useful if you don't want to download a popular mod from GameBanana and have it take up space. These links may also useful if you want to avoid a work or school blocker that blocks sites.  If you click the three dots on the top right corner of your browser, go to more tools, then click Add Shortcut, it will be like you actually downloaded the mod. This will get updated when a new FNF mod gets added to Snokido or when a popular mod not on Snokido gets released to Gamaverse. Gamaverse links usually take longer to load songs so be patient. CHRISTMAS UPDATE: Thank you so much for those who have used this over the past few months. I don't want to look on this as a chore, but I am willing to help out this community in any way I can. I may stop this project at some but idk. I couldn't thank you enough. Happy Holidays!
 
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
 
@@ -174,6 +174,8 @@ Tails Gets Trolled: https://w8.snokido.com/games/html5/friday-night-funkin/tails
 Entity: https://w8.snokido.com/games/html5/friday-night-funkin/entity01/index.html
 
 Wednesday's Infidelity: https://w8.snokido.com/games/html5/friday-night-funkin/wednesday/index.html
+
+Christmas: https://w8.snokido.com/games/html5/friday-night-funkin/holiday02/index.html
 
 Sonic.exe 2.0: https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/?12
 
