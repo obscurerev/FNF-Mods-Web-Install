@@ -177,6 +177,8 @@ Wednesday's Infidelity: https://w8.snokido.com/games/html5/friday-night-funkin/w
 
 Christmas: https://w8.snokido.com/games/html5/friday-night-funkin/holiday02/index.html
 
+Dave and Bambi Golden Apple Edition: https://w8.snokido.com/games/html5/friday-night-funkin/goldenapple02/index.html
+
 Sonic.exe 2.0: https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/?12
 
 Sonic.exe 2.0 (Mashed Potato): https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-mashed-potato-edition/?1638411943
