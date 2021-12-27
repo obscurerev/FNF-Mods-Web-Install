@@ -107,7 +107,7 @@ Fazbear: https://w8.snokido.com/games/html5/friday-night-funkin/fazbear01/index.
 
 Matt x Shaggy: https://w8.snokido.com/games/html5/friday-night-funkin/shaggyxmatt/index.html
 
-Sonic.exe: https://w8.snokido.com/games/html5/friday-night-funkin/sonicexe05/index.html
+Sonic.exe 2.0: https://w8.snokido.com/games/html5/friday-night-funkin/sonicexe26/index.html
 
 Spinel: https://w8.snokido.com/games/html5/friday-night-funkin/spinel01/index.html
 
@@ -179,10 +179,6 @@ Christmas: https://w8.snokido.com/games/html5/friday-night-funkin/holiday02/inde
 
 Dave and Bambi Golden Apple Edition: https://w8.snokido.com/games/html5/friday-night-funkin/goldenapple02/index.html
 
-Sonic.exe 2.0: https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-online-friday-night-funkin/?12
-
-Sonic.exe 2.0 (Mashed Potato): https://gamaverse.com/c/f/g/fnf-vs-sonic-exe-2-0-mashed-potato-edition/?1638411943
-
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
@@ -216,3 +212,7 @@ Matt WiiK 4 Demo: https://gamaverse.com/c/f/g/fnf-vs-matt-wiik-4-wii-funkin-fanm
 Everywhere at the End of Funk: https://files.kbh.games/dds/friday-night-funkin-everywhere-at-the-end-of-funk-mod.html
 
 Metal Sonic: Stardust Showdown: https://gamaverse.com/c/f/g/fnf-vs-metal-sonic-stardust-showdown/?1638928925
+
+Pibby Full Week: https://gamaverse.com/c/f/g/fnf-vs-pibby-corrupted-full-week/?1640301318
+
+Bob and Bosip 2.5: https://gamaverse.com/c/f/g/fnf-vs-bob-and-bosip-potato-edition-feat-optimization/?1640538333
