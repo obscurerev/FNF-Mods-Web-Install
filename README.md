@@ -9,7 +9,7 @@ Mid-Fight: https://w8.snokido.com/games/html5/friday-night-funkin/midfight13/ind
 
 Tricky: https://w8.snokido.com/games/html5/friday-night-funkin/tricky23/index.html
 
-Hex: https://w8.snokido.com/games/html5/friday-night-funkin/hex10/index.html
+Hex Update: https://w8.snokido.com/games/html5/friday-night-funkin/hex21/index.html
 
 Miku 2.0: https://w8.snokido.com/games/html5/friday-night-funkin/miku21/index.html
 
