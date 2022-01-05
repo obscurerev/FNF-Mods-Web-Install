@@ -175,7 +175,7 @@ Entity: https://w8.snokido.com/games/html5/friday-night-funkin/entity01/index.ht
 
 Wednesday's Infidelity: https://w8.snokido.com/games/html5/friday-night-funkin/wednesday/index.html
 
-Christmas: https://w8.snokido.com/games/html5/friday-night-funkin/holiday02/index.html
+Christmas: https://w8.snokido.com/games/html5/friday-night-funkin/holiday25/index.html
 
 Dave and Bambi Golden Apple Edition: https://w8.snokido.com/games/html5/friday-night-funkin/goldenapple02/index.html
 
