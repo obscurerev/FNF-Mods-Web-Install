@@ -153,7 +153,7 @@ Indie Cross: https://w8.snokido.com/games/html5/friday-night-funkin/indiecross01
 
 Mami: https://w8.snokido.com/games/html5/friday-night-funkin/mami01/index.html
 
-Pibby Corrupted: https://w8.snokido.com/games/html5/friday-night-funkin/pibby-finn/index.html
+Pibby Corrupted: https://w8.snokido.com/games/html5/friday-night-funkin/pibby02/index.html
 
 Herobrine: https://w8.snokido.com/games/html5/friday-night-funkin/herobrine01/index.html
 
