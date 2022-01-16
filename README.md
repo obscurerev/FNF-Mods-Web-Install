@@ -181,6 +181,8 @@ Dave and Bambi Golden Apple Edition: https://w8.snokido.com/games/html5/friday-n
 
 Tails.exe: https://w8.snokido.com/games/html5/friday-night-funkin/tailexe/index.html
 
+Ben Drowned: https://w8.snokido.com/games/html5/friday-night-funkin/bendrowned01/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
