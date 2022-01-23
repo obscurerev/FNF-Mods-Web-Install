@@ -183,6 +183,10 @@ Tails.exe: https://w8.snokido.com/games/html5/friday-night-funkin/tailexe/index.
 
 Ben Drowned: https://w8.snokido.com/games/html5/friday-night-funkin/bendrowned01/index.html
 
+Plants vs. Rappers: https://w8.snokido.com/games/html5/friday-night-funkin/plants-rappers01/index.html
+
+Mokey: https://w8.snokido.com/games/html5/friday-night-funkin/mokey01/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
