@@ -117,7 +117,7 @@ Retrospecter: https://w8.snokido.com/games/html5/friday-night-funkin/retrospecte
 
 Slender: https://w8.snokido.com/games/html5/friday-night-funkin/slenderman01/index.html
 
-Flipped Out: https://w8.snokido.com/games/html5/friday-night-funkin/flippedout02/index.html
+Flipped Out Update: https://w8.snokido.com/games/html5/friday-night-funkin/flippedout04/index.html
 
 Stickman: https://w8.snokido.com/games/html5/friday-night-funkin/stickman01/index.html
 
@@ -186,6 +186,8 @@ Ben Drowned: https://w8.snokido.com/games/html5/friday-night-funkin/bendrowned01
 Plants vs. Rappers: https://w8.snokido.com/games/html5/friday-night-funkin/plants-rappers01/index.html
 
 Mokey: https://w8.snokido.com/games/html5/friday-night-funkin/mokey01/index.html
+
+FNAF 1: https://w8.snokido.com/games/html5/friday-night-funkin/FNAF101/index.html
 
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
