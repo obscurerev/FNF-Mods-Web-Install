@@ -189,6 +189,8 @@ Mokey: https://w8.snokido.com/games/html5/friday-night-funkin/mokey01/index.html
 
 FNAF 1: https://w8.snokido.com/games/html5/friday-night-funkin/FNAF101/index.html
 
+Artistic Altitude: https://w8.snokido.com/games/html5/friday-night-funkin/artistic-altitude/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
