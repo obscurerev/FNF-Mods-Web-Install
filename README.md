@@ -232,3 +232,5 @@ Metal Sonic: Stardust Showdown: https://gamaverse.com/c/f/g/fnf-vs-metal-sonic-s
 Pibby Full Week: https://gamaverse.com/c/f/g/fnf-vs-pibby-corrupted-full-week/?1640301318
 
 Bob and Bosip 2.5: https://gamaverse.com/c/f/g/fnf-vs-bob-and-bosip-potato-edition-feat-optimization/?1640538333
+
+Chorus Kids: https://gamaverse.com/c/f/g/fnf-vs-chorus-kids-friday-night-funkin/?1644094480
