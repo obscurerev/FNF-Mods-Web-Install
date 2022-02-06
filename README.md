@@ -3,7 +3,7 @@ Optimized full screen mod links from Snokido. This is useful if you don't want t
 
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
 
-Whitty: https://w8.snokido.com/games/html5/friday-night-funkin/whitty10/index.html
+Whitty - Definitive Edition: https://w8.snokido.com/games/html5/friday-night-funkin/whitty20/index.html
 
 Mid-Fight: https://w8.snokido.com/games/html5/friday-night-funkin/midfight13/index.html
 
