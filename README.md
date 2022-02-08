@@ -236,3 +236,5 @@ Bob and Bosip 2.5: https://gamaverse.com/c/f/g/fnf-vs-bob-and-bosip-potato-editi
 Chorus Kids: https://gamaverse.com/c/f/g/fnf-vs-chorus-kids-friday-night-funkin/?1644094480
 
 Mario Rebooted: https://gamaverse.com/c/f/g/fnf-vs-mario-rebooted-friday-night-funkin/?1640145041
+
+Funk of 87': https://gamaverse.com/c/f/g/fnf-the-funk-of-87-w-springtrap-update/?1644256588
