@@ -35,7 +35,7 @@ Bob: https://w8.snokido.com/games/html5/friday-night-funkin/bob03/index.html
 
 Imposter: https://w8.snokido.com/games/html5/friday-night-funkin/impostor07/index.html
 
-FNF HD: https://w8.snokido.com/games/html5/friday-night-funkin/hd06/index.html
+FNF HD Update: https://w8.snokido.com/games/html5/friday-night-funkin/hd12/index.html
 
 Sans: https://w8.snokido.com/games/html5/friday-night-funkin/sans/index.html
 
