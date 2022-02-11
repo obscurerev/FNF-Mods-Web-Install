@@ -195,6 +195,8 @@ Artistic Altitude: https://w8.snokido.com/games/html5/friday-night-funkin/artist
 
 UberKids: Unloaded: https://w8.snokido.com/games/html5/friday-night-funkin/uberkids01/index.html
 
+Goodbye World: https://w8.snokido.com/games/html5/friday-night-funkin/goodbye-world/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
