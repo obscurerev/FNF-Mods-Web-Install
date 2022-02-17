@@ -242,3 +242,5 @@ Chorus Kids: https://gamaverse.com/c/f/g/fnf-vs-chorus-kids-friday-night-funkin/
 Mario Rebooted: https://gamaverse.com/c/f/g/fnf-vs-mario-rebooted-friday-night-funkin/?1640145041
 
 Funk of 87': https://gamaverse.com/c/f/g/fnf-the-funk-of-87-w-springtrap-update/?1644256588
+
+Super Mario Bros. Funk Mix: https://gamaverse.com/c/f/g/fnf-x-super-mario-bros-funk-mix/?1641079919
