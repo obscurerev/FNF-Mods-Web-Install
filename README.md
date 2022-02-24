@@ -23,7 +23,7 @@ Garcello: https://w8.snokido.com/games/html5/friday-night-funkin/garcello02/inde
 
 Chara: https://w8.snokido.com/games/html5/friday-night-funkin/chara/index.html
 
-Kapi: https://w8.snokido.com/games/html5/friday-night-funkin/kapi05/index.html
+Kapi Update: https://w8.snokido.com/games/html5/friday-night-funkin/kapi21/index.html
 
 Tabi: https://w8.snokido.com/games/html5/friday-night-funkin/tabi03/index.html
 
@@ -247,4 +247,4 @@ Funk of 87': https://gamaverse.com/c/f/g/fnf-the-funk-of-87-w-springtrap-update/
 
 Super Mario Bros. Funk Mix: https://gamaverse.com/c/f/g/fnf-x-super-mario-bros-funk-mix/?1641079919
 
-Kapi Arcade Showdown v2: https://gameverse.com/c/f/g/friday-night-funkin-vs-kapi/?1645331501
+Mario's Madness: https://gamaverse.com/c/f/g/fnf-marios-madness/?1645503491
