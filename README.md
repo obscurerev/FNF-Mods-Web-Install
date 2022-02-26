@@ -201,6 +201,8 @@ Auditor Gateway To Hell: https://w8.snokido.com/games/html5/friday-night-funkin/
 
 Ace: https://w8.snokido.com/games/html5/friday-night-funkin/ace02/index.html
 
+Happy Tree Funkers: https://w8.snokido.com/games/html5/friday-night-funkin/happy-tree-funkers/index.html
+
 Mario's Madness: https://w8.snokido.com/games/html5/friday-night-funkin/mario-madness01/index.html
 
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
