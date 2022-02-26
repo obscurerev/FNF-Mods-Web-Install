@@ -201,6 +201,8 @@ Auditor Gateway To Hell: https://w8.snokido.com/games/html5/friday-night-funkin/
 
 Ace: https://w8.snokido.com/games/html5/friday-night-funkin/ace02/index.html
 
+Mario's Madness: https://w8.snokido.com/games/html5/friday-night-funkin/mario-madness01/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
@@ -246,5 +248,3 @@ Mario Rebooted: https://gamaverse.com/c/f/g/fnf-vs-mario-rebooted-friday-night-f
 Funk of 87': https://gamaverse.com/c/f/g/fnf-the-funk-of-87-w-springtrap-update/?1644256588
 
 Super Mario Bros. Funk Mix: https://gamaverse.com/c/f/g/fnf-x-super-mario-bros-funk-mix/?1641079919
-
-Mario's Madness: https://gamaverse.com/c/f/g/fnf-marios-madness/?1645503491
