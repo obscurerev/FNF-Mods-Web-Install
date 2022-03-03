@@ -207,6 +207,8 @@ Mario's Madness: https://w8.snokido.com/games/html5/friday-night-funkin/mario-ma
 
 Pibby Corrupted Twilight Sparkle: https://w8.snokido.com/games/html5/friday-night-funkin/twilight02/index.html
 
+Isaac: https://w8.snokido.com/games/html5/friday-night-funkin/isaac01/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
