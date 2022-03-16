@@ -187,7 +187,7 @@ Plants vs. Rappers: https://w8.snokido.com/games/html5/friday-night-funkin/plant
 
 Mokey: https://w8.snokido.com/games/html5/friday-night-funkin/mokey01/index.html
 
-FNAF 1: https://w8.snokido.com/games/html5/friday-night-funkin/FNAF101/index.html
+FNAF 1 Update: https://w8.snokido.com/games/html5/friday-night-funkin/FNAF102/index.html
 
 Challeng-Edd: https://w8.snokido.com/games/html5/friday-night-funkin/challenge-edd02/index.html
 
