@@ -81,7 +81,7 @@ The Date: https://w8.snokido.com/games/html5/friday-night-funkin/dateweek01/inde
 
 Neon: https://w8.snokido.com/games/html5/friday-night-funkin/neon03/index.html
 
-QT: https://w8.snokido.com/games/html5/friday-night-funkin/qt02/index.html
+QT Update: https://w8.snokido.com/games/html5/friday-night-funkin/qt20/index.html
 
 In The Galaxy: https://w8.snokido.com/games/html5/friday-night-funkin/galaxy01/index.html
 
