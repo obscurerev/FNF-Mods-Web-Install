@@ -217,6 +217,8 @@ Cassette Girl: https://w8.snokido.com/games/html5/friday-night-funkin/cassette-g
 
 Vs. Tails Secret Histories: https://w8.snokido.com/games/html5/friday-night-funkin/secret-histories02/index.html
 
+Trollface/Trollge Demo: https://w8.snokido.com/games/html5/friday-night-funkin/trollface20/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
