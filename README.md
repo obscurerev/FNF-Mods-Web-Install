@@ -267,4 +267,6 @@ Funk of 87': https://gamaverse.com/c/f/g/fnf-the-funk-of-87-w-springtrap-update/
 
 Super Mario Bros. Funk Mix: https://gamaverse.com/c/f/g/fnf-x-super-mario-bros-funk-mix/?1641079919
 
+Gorefield: https://gamaverse.com/c/f/g/fnf-vs-gorefield-horror-garfield/?1647380976
+
 Blueballs Incident V2: https://gamaverse.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/intro/index.html
