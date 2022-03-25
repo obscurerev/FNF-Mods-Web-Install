@@ -269,4 +269,6 @@ Super Mario Bros. Funk Mix: https://gamaverse.com/c/f/g/fnf-x-super-mario-bros-f
 
 Gorefield: https://gamaverse.com/c/f/g/fnf-vs-gorefield-horror-garfield/?1647380976
 
+Tails' Halloween: https://gamaverse.com/c/f/g/fnf-tails-halloween/?1647570836
+
 Blueballs Incident V2: https://gamaverse.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/intro/index.html
