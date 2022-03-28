@@ -223,6 +223,8 @@ Afton: https://w8.snokido.com/games/html5/friday-night-funkin/afton01/index.html
 
 Mommy Long Legs: https://w8.snokido.com/games/html5/friday-night-funkin/mommy01/index.html
 
+Gorefield: https://w8.snokido.com/games/html5/friday-night-funkin/gorefield/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
@@ -268,8 +270,6 @@ Mario Rebooted: https://gamaverse.com/c/f/g/fnf-vs-mario-rebooted-friday-night-f
 Funk of 87': https://gamaverse.com/c/f/g/fnf-the-funk-of-87-w-springtrap-update/?1644256588
 
 Super Mario Bros. Funk Mix: https://gamaverse.com/c/f/g/fnf-x-super-mario-bros-funk-mix/?1641079919
-
-Gorefield: https://gamaverse.com/c/f/g/fnf-vs-gorefield-horror-garfield/?1647380976
 
 Tails' Halloween: https://gamaverse.com/c/f/g/fnf-tails-halloween/?1647570836
 
