@@ -113,8 +113,6 @@ Spinel: https://w8.snokido.com/games/html5/friday-night-funkin/spinel01/index.ht
 
 Dusttale: https://w8.snokido.com/games/html5/friday-night-funkin/dusttale02/index.html
 
-Retrospecter: https://w8.snokido.com/games/html5/friday-night-funkin/retrospecter01/index.html
-
 Slender: https://w8.snokido.com/games/html5/friday-night-funkin/slenderman01/index.html
 
 Flipped Out Update: https://w8.snokido.com/games/html5/friday-night-funkin/flippedout04/index.html
