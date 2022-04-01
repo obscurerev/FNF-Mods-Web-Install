@@ -225,6 +225,8 @@ Mommy Long Legs: https://w8.snokido.com/games/html5/friday-night-funkin/mommy01/
 
 Gorefield: https://w8.snokido.com/games/html5/friday-night-funkin/gorefield/index.html
 
+RetroSpecter: https://w8.snokido.com/games/html5/friday-night-funkin/retrospecter03/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
