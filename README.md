@@ -227,6 +227,8 @@ RetroSpecter: https://w8.snokido.com/games/html5/friday-night-funkin/retrospecte
 
 Atrocity: https://w8.snokido.com/games/html5/friday-night-funkin/atrocity/index.html
 
+Ben's Adventure: https://w8.snokido.com/games/html5/friday-night-funkin/ben-adventure/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
@@ -270,6 +272,8 @@ Chorus Kids: https://gamaverse.com/c/f/g/fnf-vs-chorus-kids-friday-night-funkin/
 Mario Rebooted: https://gamaverse.com/c/f/g/fnf-vs-mario-rebooted-friday-night-funkin/?1640145041
 
 Funk of 87': https://gamaverse.com/c/f/g/fnf-the-funk-of-87-w-springtrap-update/?1644256588
+
+Mario's Madness: https://gamaverse.com/c/f/g/fnf-marios-madness/?1645503491
 
 Super Mario Bros. Funk Mix: https://gamaverse.com/c/f/g/fnf-x-super-mario-bros-funk-mix/?1641079919
 
