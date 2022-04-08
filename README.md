@@ -275,7 +275,9 @@ Funk of 87': https://gamaverse.com/c/f/g/fnf-the-funk-of-87-w-springtrap-update/
 
 Mario's Madness: https://gamaverse.com/c/f/g/fnf-marios-madness/?1645503491
 
-Super Mario Bros. Funk Mix: https://gamaverse.com/c/f/g/fnf-x-super-mario-bros-funk-mix/?1641079919
+Phantasm: https://gamaverse.com/c/f/g/fnf-phantasm-dual-mix/?1646519922
+
+Super Mario Bros. Funk Mix DX: https://gamaverse.com/c/f/g/fnf-x-super-mario-bros-funk-mix/?1649444288
 
 Tails' Halloween: https://gamaverse.com/c/f/g/fnf-tails-halloween/?1647570836
 
