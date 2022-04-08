@@ -279,4 +279,6 @@ Super Mario Bros. Funk Mix: https://gamaverse.com/c/f/g/fnf-x-super-mario-bros-f
 
 Tails' Halloween: https://gamaverse.com/c/f/g/fnf-tails-halloween/?1647570836
 
+Confronting Yourself: https://gamaverse.com/c/f/g/fnf-confronting-yourself-vs-sonic-exe/?1648414958
+
 Blueballs Incident V2: https://gamaverse.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/intro/index.html
