@@ -147,7 +147,7 @@ Cartoon Cat: https://w8.snokido.com/games/html5/friday-night-funkin/cartooncat01
 
 Doki Doki Takeover: https://w8.snokido.com/games/html5/friday-night-funkin/dokitakeover01/index.html
 
-Indie Cross: https://w8.snokido.com/games/html5/friday-night-funkin/indiecross01/index.html
+Indie Cross V1: https://w8.snokido.com/games/html5/friday-night-funkin/indiecross09/index.html
 
 Mami: https://w8.snokido.com/games/html5/friday-night-funkin/mami01/index.html
 
