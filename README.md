@@ -13,7 +13,7 @@ Hex Update: https://w8.snokido.com/games/html5/friday-night-funkin/hex21/index.h
 
 Miku 2.0: https://w8.snokido.com/games/html5/friday-night-funkin/miku21/index.html
 
-Sky: https://w8.snokido.com/games/html5/friday-night-funkin/sky01/index.html
+Sky v2: https://w8.snokido.com/games/html5/friday-night-funkin/sky02/index.html
 
 Zardy: https://w8.snokido.com/games/html5/friday-night-funkin/zardy21/index.html
 
