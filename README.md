@@ -101,7 +101,7 @@ Pico's School: https://w8.snokido.com/games/html5/friday-night-funkin/picoschool
 
 Soft: https://w8.snokido.com/games/html5/friday-night-funkin/soft02/index.html
 
-D-Sides: https://w8.snokido.com/games/html5/friday-night-funkin/dside02/index.html
+D-Sides Update: https://w8.snokido.com/games/html5/friday-night-funkin/dsides11/index.html
 
 Fazbear: https://w8.snokido.com/games/html5/friday-night-funkin/fazbear01/index.html
 
@@ -224,6 +224,8 @@ Mommy Long Legs: https://w8.snokido.com/games/html5/friday-night-funkin/mommy01/
 Gorefield: https://w8.snokido.com/games/html5/friday-night-funkin/gorefield/index.html
 
 RetroSpecter: https://w8.snokido.com/games/html5/friday-night-funkin/retrospecter03/index.html
+
+Peppa Pig: https://w8.snokido.com/games/html5/friday-night-funkin/peppa-pig/index3.html
 
 Atrocity: https://w8.snokido.com/games/html5/friday-night-funkin/atrocity/index.html
 
