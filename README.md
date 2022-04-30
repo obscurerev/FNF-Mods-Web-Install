@@ -288,3 +288,5 @@ Confronting Yourself: https://gamaverse.com/c/f/g/fnf-confronting-yourself-vs-so
 Blueballs Incident V2: https://gamaverse.com/c/f/g/fnf-the-blueballs-incident-friday-night-funkin/intro/index.html
 
 Indie Cross V1: https://gamaverse.com/c/f/g/fnf-indie-cross-vs-cuphead-sans-bendy/intro/index.html
+
+Queen Sectonia: https://gamaverse.com/c/f/g/fnf-vs-queen-sectonia-from-kirby-friday-night-funkin/?1628731185
