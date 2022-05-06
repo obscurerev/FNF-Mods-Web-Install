@@ -233,6 +233,8 @@ Ben's Adventure: https://w8.snokido.com/games/html5/friday-night-funkin/ben-adve
 
 Cyber Sensation: https://w8.snokido.com/games/html5/friday-night-funkin/taeyai01/index.html
 
+Hazy River: https://w8.snokido.com/games/html5/friday-night-funkin/hazy-river02/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
