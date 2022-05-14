@@ -1,5 +1,6 @@
 # Friday Night Funkin' Mods Optimized and in Full Screen
 Optimized full screen mod links from Snokido. This is useful if you don't want to download a popular mod from GameBanana and have it take up space. These links may also be useful if you want to avoid a work or school blocker that blocks sites.  If you click the three dots on the top right corner of your browser, go to more tools, then click Add Shortcut, it will be like you actually downloaded the mod. This will get updated when a new FNF mod gets added to Snokido or when a popular mod not on Snokido gets released to Gamaverse. Gamaverse links usually take longer to load songs so be patient. ctrl-f and find your mod.
+(2022 snokido update) for some reason they added a little bar over the game which is really annoying, try to bear with it until something changes on the website.
 
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
 
@@ -234,6 +235,10 @@ Ben's Adventure: https://w8.snokido.com/games/html5/friday-night-funkin/ben-adve
 Cyber Sensation: https://w8.snokido.com/games/html5/friday-night-funkin/taeyai01/index.html
 
 Hazy River: https://w8.snokido.com/games/html5/friday-night-funkin/hazy-river02/index.html
+
+Chaos Nightmare: https://w8.snokido.com/games/html5/friday-night-funkin/chaos-nightmare/index.html
+
+Nagatoro: https://w8.snokido.com/games/html5/friday-night-funkin/nagatoro/index.html
 
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
