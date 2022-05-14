@@ -299,3 +299,5 @@ Blueballs Incident V2: https://gamaverse.com/c/f/g/fnf-the-blueballs-incident-fr
 Indie Cross V1: https://gamaverse.com/c/f/g/fnf-indie-cross-vs-cuphead-sans-bendy/intro/index.html
 
 Queen Sectonia: https://gamaverse.com/c/f/g/fnf-vs-queen-sectonia-from-kirby-friday-night-funkin/?1628731185
+
+Mid-Fight Masses Deluxe: https://gamaverse.com/c/f/g/fnf-mid-fight-masses-deluxe-edition-online/
