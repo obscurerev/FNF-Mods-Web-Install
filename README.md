@@ -240,6 +240,8 @@ Chaos Nightmare: https://w8.snokido.com/games/html5/friday-night-funkin/chaos-ni
 
 Nagatoro: https://w8.snokido.com/games/html5/friday-night-funkin/nagatoro/index.html
 
+Super Sonic Smackdown: https://w8.snokido.com/games/html5/friday-night-funkin/smackdown/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
