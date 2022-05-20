@@ -303,3 +303,5 @@ Queen Sectonia: https://gamaverse.com/c/f/g/fnf-vs-queen-sectonia-from-kirby-fri
 Mid-Fight Masses Deluxe: https://gamaverse.com/c/f/g/fnf-mid-fight-masses-deluxe-edition-online/
 
 Mid-Fight Masses Deluxe (less lag): https://fnf.kdata1.com/mid-fight-masses-deluxe-edition/1/
+
+Friday Night Funkin' RTX ON: https://v6p9d9t4.ssl.hwcdn.net/html/4132167/bin/index.html
