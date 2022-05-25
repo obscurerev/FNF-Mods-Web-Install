@@ -242,6 +242,8 @@ Nagatoro: https://w8.snokido.com/games/html5/friday-night-funkin/nagatoro/index.
 
 Super Sonic Smackdown: https://w8.snokido.com/games/html5/friday-night-funkin/smackdown/index.html
 
+Bunzo Bunny: https://w8.snokido.com/games/html5/friday-night-funkin/bunzo/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
