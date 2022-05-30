@@ -148,7 +148,7 @@ Cartoon Cat: https://w8.snokido.com/games/html5/friday-night-funkin/cartooncat01
 
 Doki Doki Takeover: https://w8.snokido.com/games/html5/friday-night-funkin/dokitakeover01/index.html
 
-Indie Cross V1: https://w8.snokido.com/games/html5/friday-night-funkin/indiecross09/index.html
+Indie Cross V1: https://w8.snokido.com/games/html5/friday-night-funkin/indiecross29/index.html
 
 Mami: https://w8.snokido.com/games/html5/friday-night-funkin/mami01/index.html
 
@@ -243,6 +243,8 @@ Nagatoro: https://w8.snokido.com/games/html5/friday-night-funkin/nagatoro/index.
 Super Sonic Smackdown: https://w8.snokido.com/games/html5/friday-night-funkin/smackdown/index.html
 
 Bunzo Bunny: https://w8.snokido.com/games/html5/friday-night-funkin/bunzo/index.html
+
+Skeleton Bros: https://w8.snokido.com/games/html5/friday-night-funkin/skeleton-bros/index.html
 
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
