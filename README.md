@@ -246,6 +246,10 @@ Bunzo Bunny: https://w8.snokido.com/games/html5/friday-night-funkin/bunzo/index.
 
 Skeleton Bros: https://w8.snokido.com/games/html5/friday-night-funkin/skeleton-bros/index.html
 
+Baddies: https://w8.snokido.com/games/html5/friday-night-funkin/baddies/index.html
+
+Birdie: https://w8.snokido.com/games/html5/friday-night-funkin/birdie/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
