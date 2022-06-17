@@ -250,6 +250,10 @@ Baddies: https://w8.snokido.com/games/html5/friday-night-funkin/baddies/index.ht
 
 Birdie: https://w8.snokido.com/games/html5/friday-night-funkin/birdie/index.html
 
+Chomper: https://w8.snokido.com/games/html5/friday-night-funkin/chomper/index.html
+
+Void: https://w8.snokido.com/games/html5/friday-night-funkin/void1/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
