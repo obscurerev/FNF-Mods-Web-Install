@@ -132,7 +132,7 @@ Hank: https://w8.snokido.com/games/html5/friday-night-funkin/hank02/index.html
 
 Hecker: https://w8.snokido.com/games/html5/friday-night-funkin/hecker01/index.html
 
-Baldi: https://w8.snokido.com/games/html5/friday-night-funkin/baldi01/index.html
+Baldi: https://w8.snokido.com/games/html5/friday-night-funkin/baldi02/index2.html
 
 Ghost Twins: https://w8.snokido.com/games/html5/friday-night-funkin/ghosttwins04/index.html
 
@@ -254,6 +254,12 @@ Chomper: https://w8.snokido.com/games/html5/friday-night-funkin/chomper/index.ht
 
 Void: https://w8.snokido.com/games/html5/friday-night-funkin/void1/index.html
 
+Funkdela: https://w8.snokido.com/games/html5/friday-night-funkin/funkdela/index.html
+
+Poppy Raptime: https://w8.snokido.com/games/html5/friday-night-funkin/poppy-raptime/index.html
+
+Imposter Black Betrayal: https://w8.snokido.com/games/html5/friday-night-funkin/black-betrayal04/index2.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
@@ -317,5 +323,7 @@ Queen Sectonia: https://gamaverse.com/c/f/g/fnf-vs-queen-sectonia-from-kirby-fri
 Mid-Fight Masses Deluxe: https://gamaverse.com/c/f/g/fnf-mid-fight-masses-deluxe-edition-online/
 
 Mid-Fight Masses Deluxe (less lag): https://fnf.kdata1.com/mid-fight-masses-deluxe-edition/1/
+
+Doki Doki Takeover Bad Ending: https://gamaverse.com/c/f/g/fnf-doki-doki-takeover-bad-ending-1656705501/
 
 Friday Night Funkin' RTX ON: https://v6p9d9t4.ssl.hwcdn.net/html/4132167/bin/index.html
