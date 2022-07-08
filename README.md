@@ -260,6 +260,10 @@ Poppy Raptime: https://w8.snokido.com/games/html5/friday-night-funkin/poppy-rapt
 
 Imposter Black Betrayal: https://w8.snokido.com/games/html5/friday-night-funkin/black-betrayal04/index2.html
 
+Pibby Glitched Legends: https://w8.snokido.com/games/html5/friday-night-funkin/glitched-legends/index.html
+
+Doki Doki Takeover Bad Ending: https://w8.snokido.com/games/html5/friday-night-funkin/doki-bad-ending/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
