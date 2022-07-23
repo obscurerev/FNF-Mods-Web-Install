@@ -264,6 +264,12 @@ Pibby Glitched Legends: https://w8.snokido.com/games/html5/friday-night-funkin/g
 
 Doki Doki Takeover Bad Ending: https://w8.snokido.com/games/html5/friday-night-funkin/doki-bad-ending/index.html
 
+Sonic.exe 3.0: https://w8.snokido.com/games/html5/friday-night-funkin/sonicchoice.html
+
+Twinsomnia: https://w8.snokido.com/games/html5/friday-night-funkin/twinsomnia01/index.html
+
+Mistful Crimson Morning: https://w8.snokido.com/games/html5/friday-night-funkin/mistful-crimson01/index.html
+
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
 Tabi HD: https://gamaverse.com/c/f/g/fnf-vs-tabi-hd-online-friday-night-funkin/
