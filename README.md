@@ -1,6 +1,7 @@
 # Friday Night Funkin' Mods Optimized and in Full Screen
 Optimized full screen mod links from Snokido. This is useful if you don't want to download a popular mod from GameBanana and have it take up space. These links may also be useful if you want to avoid a work or school blocker that blocks sites.  If you click the three dots on the top right corner of your browser, go to more tools, then click Add Shortcut, it will be like you actually downloaded the mod. This will get updated when a new FNF mod gets added to Snokido or when a popular mod not on Snokido gets released to Gamaverse. Gamaverse links usually take longer to load songs so be patient. ctrl-f and find your mod.
-(2022 snokido update) for some reason they added a little bar over the game which is really annoying, try to bear with it until something changes on the website.
+
+It is sad to say this will be the last update I will ever make to this repo. It has been fun being an FNF fan but my love for it has been decreasing overtime during the past year. So much so that I despise this whole "mod" thing when they can be called their own games on their own merits, instead of being referred to as a FNF "mod". No more requests will be taken. This has been a fun mini-project of mine to help people find their "mods" in full screen, and fully (mostly) playable in their browser. Thanks for the support on this project!
 
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
 
@@ -130,7 +131,7 @@ Squid Game: https://w8.snokido.com/games/html5/friday-night-funkin/squidgame01/i
 
 Hank: https://w8.snokido.com/games/html5/friday-night-funkin/hank02/index.html
 
-Hecker: https://w8.snokido.com/games/html5/friday-night-funkin/hecker01/index.html
+Hecker: https://w8.snokido.com/games/html5/friday-night-funkin/hecker23/index.html
 
 Baldi: https://w8.snokido.com/games/html5/friday-night-funkin/baldi02/index2.html
 
@@ -238,8 +239,6 @@ Hazy River: https://w8.snokido.com/games/html5/friday-night-funkin/hazy-river02/
 
 Chaos Nightmare: https://w8.snokido.com/games/html5/friday-night-funkin/chaos-nightmare/index.html
 
-Nagatoro: https://w8.snokido.com/games/html5/friday-night-funkin/nagatoro/index.html
-
 Super Sonic Smackdown: https://w8.snokido.com/games/html5/friday-night-funkin/smackdown/index.html
 
 Bunzo Bunny: https://w8.snokido.com/games/html5/friday-night-funkin/bunzo/index.html
@@ -264,11 +263,25 @@ Pibby Glitched Legends: https://w8.snokido.com/games/html5/friday-night-funkin/g
 
 Doki Doki Takeover Bad Ending: https://w8.snokido.com/games/html5/friday-night-funkin/doki-bad-ending/index.html
 
-Sonic.exe 3.0: https://w8.snokido.com/games/html5/friday-night-funkin/sonicchoice.html
+Sonic.exe 3.0: https://w8.snokido.com/games/html5/friday-night-funkin/sonicchoice.html?220822
 
 Twinsomnia: https://w8.snokido.com/games/html5/friday-night-funkin/twinsomnia01/index.html
 
 Mistful Crimson Morning: https://w8.snokido.com/games/html5/friday-night-funkin/mistful-crimson01/index.html
+
+Corruption Takeover: https://w8.snokido.com/games/html5/friday-night-funkin/corruption-takeover01/index2.html
+
+Basement Show: https://w8.snokido.com/games/html5/friday-night-funkin/basement-show01/index.html
+
+Trepidation: https://w8.snokido.com/games/html5/friday-night-funkin/trepidation01/index.html
+
+Pac-Man: https://w8.snokido.com/games/html5/friday-night-funkin/pacman01/index.html
+
+Funkin for Bikini Bottom: https://w8.snokido.com/games/html5/friday-night-funkin/bikini-bottom/index.html
+
+Unlabeled Anime: https://w8.snokido.com/games/html5/friday-night-funkin/nagatoro02/index.html
+
+Rainbow Friends: https://w8.snokido.com/games/html5/friday-night-funkin/rainbow-friends/index.html
 
 Starecrown: https://gamaverse.com/c/f/g/fnf-vs-starecrown-full-week-w-phase-3-friday-night-funkin/
 
