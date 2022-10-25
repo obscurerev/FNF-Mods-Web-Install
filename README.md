@@ -3,6 +3,8 @@ Optimized full screen mod links from Snokido. This is useful if you don't want t
 
 It is sad to say this will be the last update I will ever make to this repo. It has been fun being an FNF fan but my love for it has been decreasing overtime during the past year. So much so that I despise this whole "mod" thing when they can be called their own games on their own merits, instead of being referred to as a FNF "mod". No more requests will be taken. This has been a fun mini-project of mine to help people find their "mods" in full screen, and fully (mostly) playable in their browser. Thanks for the support on this project!
 
+Up-to-date Repo: https://github.com/drok28/FNF-Mods-Web-Install
+
 Friday Night Funkin': https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html
 
 Whitty Definitive Edition: https://w8.snokido.com/games/html5/friday-night-funkin/whitty20/index.html
