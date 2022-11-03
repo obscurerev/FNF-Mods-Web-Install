@@ -352,3 +352,7 @@ Mid-Fight Masses Deluxe (less lag): https://fnf.kdata1.com/mid-fight-masses-delu
 Doki Doki Takeover Bad Ending: https://gamaverse.com/c/f/g/fnf-doki-doki-takeover-bad-ending-1656705501/
 
 Friday Night Funkin' RTX ON: https://v6p9d9t4.ssl.hwcdn.net/html/4132167/bin/index.html
+
+Battle For Corrupted Island: https://gamaverse.com/c/fnf-battle-for-corrupted-island-2-0-battle-for-a-friday-night-disaster-game/
+
+Mario's Monday Night Massacre: https://gamaverse.com/c/fnf-marios-monday-night-massacre-game/
